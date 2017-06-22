@@ -1,2 +1,2 @@
 # learnjenkins
-this repo contains sample code to be built by jenkins
+This repo contains sample code to be built by jenkins
